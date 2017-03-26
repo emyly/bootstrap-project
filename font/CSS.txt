@@ -1,0 +1,4 @@
+@font-face {
+	font-family: "DINWeb-Medium-woff";
+	src: url(../fonts/DINWeb-Medium-woff.woff) format("truetype");
+}
